@@ -1,0 +1,30 @@
+body{
+    background-image: url("library.jpg"); 
+    font-family: Verdana,Arial;
+    
+}
+
+#big {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgba(187,187,187,0.7);
+}
+
+header {
+    margin: 30px;
+    padding: 15px;
+    text-align: center;
+    background-color: rgba(242,200,136,0.7);
+    
+}
+
+h1 {
+   color:  #00438d;
+}
+#dform {
+    margin: 30px;
+    padding: 30px;
+    background-color: rgba(187,187,187,0.5);
+    line-height: 2;
+    
+}
